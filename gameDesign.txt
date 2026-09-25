@@ -1,0 +1,18 @@
+
+** SpaceShooter **
+
+A terminal game that depends on spaceship's movement and firing to avoid moving aliens in a 9x9 grid based field.
+
+* Mechanics *
+
+arrow keys to move right and left
+space button to shoot
+
+* Enemies *
+
+Certain amount based off of levels(like 2x2 for level 2) that are moving right to left, when hitting the walls they move 1 block closer to player.
+
+* Survival *
+
+For now everything has 1 hp. Do or die.
+
